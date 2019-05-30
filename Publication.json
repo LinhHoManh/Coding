@@ -1,0 +1,165 @@
+{
+ "name": "Tuan Dang",
+ "img": "https://www.cs.uic.edu/~tdang/media/TuanDang1.jpg",
+ "link1": "http://www.myweb.ttu.edu/tnhondan/",
+ "link2": "http://myweb.ttu.edu/tnhondan/iDVL/index.php",
+ "pubname": "Tuan Dang",    
+ "children": [
+  {
+    "name": "Vinh Nguyen",
+    "img": "http://myweb.ttu.edu/tnhondan/iDVL/images/people/vinh.jpg",
+        
+            
+   "children": [
+    {
+      "hero": "Vinh Nguyen and Tommy Dang",
+      "name": "Vrescuer: A Virtual Reality Application for Disaster Response Training",
+      "pubname": "DAIVAR 2018",
+      "link1": "http://www.artur-lugmayr.com/activities/current-activities/daivar2018/",
+      "img":  "http://www.artur-lugmayr.com/wp-content/uploads/2018/12/Logo-1024x576.jpg",
+      "size": 80000
+    },
+    {
+      "hero": " Vinh Nguyen and Tommy Dang",
+      "name": "Creating Virtual Reality and Augmented Reality development in classroom: Is it a hype?", 
+      "link1": "http://aivr.asia.edu.tw/2018/",
+      "pubname": "AIVR 2018",
+      "img":  "http://aivr.asia.edu.tw/2018/wp-content/uploads/2018/08/AIVR_banner_01.png",
+      "size": 80000
+    },
+    {
+      "hero": "Vinh Nguyen and Tommy Dang", 
+      "name": "Web-based Virtual Reality development in classroom: From learner's perspectives",
+      "link1": "http://aivr.asia.edu.tw/2018/",
+      "pubname": "AIVR 2018",
+      "img":  "http://aivr.asia.edu.tw/2018/wp-content/uploads/2018/08/AIVR_banner_01.png",
+      "size": 80000
+    },
+    {
+      "hero": "Vinh Nguyen, Akbar Siami Namin, Keith S. Jones, and Tommy Dang", 
+      "name": "MalViz: An Interactive Visualization Tool for Tracing Malware",
+      "link1": "https://conf.researchr.org/home/issta-2018",
+      "link2": "https://github.com/Alex-Nguyen/Malviz",              
+      "pubname": "ISSTA 2018",              
+      "img":  "https://conf.researchr.org/getImage/issta-2018/orig/issta-Amstr-final-square.png",
+      "size": 80000
+    },
+    {
+      "hero": "Vinh Nguyen, Fang Jin, and Tommy Dang", 
+      "name": "Predict Saturated Thickness using TensorBoard Visualization",
+      "link1": "https://www.informatik.uni-leipzig.de/bsv/envirvis2018/",
+      "link2": "https://github.com/Alex-Nguyen/SaturatedThicknessTensorBoard",              
+      "pubname": "EnvirVis 2018",             
+      "img":  "https://www.informatik.uni-leipzig.de/bsv/envirvis2018/user/themes/antimatter/images/favicon.png",
+      "size": 80000
+    },
+    {
+      "hero": "Vinh Nguyen and Tommy Dang", 
+      "name": "Setting up virtual reality and augmented reality learning environment in Unity",
+      "link1": "https://www.vamre.org/",
+      "pubname": "ISMAR 2017",                
+      "img":  "https://static.wixstatic.com/media/0ab2f9_954652920f7541b1ba8b6fb9f2ddf6d2~mv2.png/v1/fill/w_555,h_153,al_c,q_80,usm_0.66_1.00_0.01/0ab2f9_954652920f7541b1ba8b6fb9f2ddf6d2~mv2.webp",
+      "size": 80000
+    },
+    {
+      "hero": "Vinh Nguyen, Yasin Kabir, and Tommy Dang", 
+      "name": "Cancerlink1er: Explorations of Cancer Study Network",
+      "link1": "http://www.visualdatascience.org/2017/",
+      "link2": "https://github.com/iDataVisualizationLab/CancerLinker",              
+      "pubname": "VDS 2017",              
+      "img":  "http://www.visualdatascience.org/2017/images/vds-logo.png",
+      "size": 80000
+    }
+  ]
+  },
+  {
+   "name": "Vung Pham",
+   "img": "http://myweb.ttu.edu/tnhondan/iDVL/images/people/vung.jpg",            
+
+            
+   "children": [
+    {
+      "hero": "Vung Pham and Tommy Dang",
+      "name": "CVExplorer: Multidimensional Visualization for Common Vulnerabilities and Exposures", 
+      "link1": "http://cci.drexel.edu/bigdata/bigdata2018/index.html",
+      "link2": "https://github.com/iDataVisualizationLab/CVSS",              
+      "pubname": "IEEE Big Data 2018",             
+      "img":  "http://cci.drexel.edu/bigdata/bigdata2018/images/ieee_computer_society.jpg",
+      "size": 80000
+    },
+    {
+      "hero": "Vung Pham and Tommy Dang",
+      "name": "Award: Strong Support for Exploratory Analysis", 
+      "link1": "http://vacommunity.org/VAST+Challenge+2018+MC2",
+      "link2": "https://github.com/iDataVisualizationLab/VAST2018",              
+      "pubname": "VAST 2018",             
+      "img":  "http://vacommunity.org/styles/vacomm/vacomm_logo.jpg",
+      "size": 80000
+    },
+    {
+      "hero": "Tommy Dang and Vung Pham",
+      "name": "Honorable Mention: Representation of Small-Scale Temporal Patterns", 
+      "link1": "http://vacommunity.org/VAST+Challenge+2018+MC3",
+      "link2": "https://github.com/iDataVisualizationLab/VAST2018mc3",
+      "pubname": "VAST 2018",              
+      "img":  "http://vacommunity.org/styles/vacomm/vacomm_logo.jpg",
+      "size": 80000
+    }
+   ]
+  },
+  {
+   "name": "Others",
+   "img":  "https://www.cs.uic.edu/~tdang/media/TuanDang2016.jpg",
+   "children": [
+    {
+      "hero": "Tommy Dang and Vinh Nguyen ",
+      "name": "ComModeler: Topic Modeling Using Community Detection", 
+      "link1": "http://www.eurova.org/",
+      "pubname": "EuroVA 2018",               
+      "img":  "https://www.eurova.org/wp-content/uploads/EuroVA2019_logo_small.png",
+      "size": 80000
+    },
+    {
+      "hero": "Tommy Dang, Paul Murray, Ronak Etemadpour, and Angus G. Forbes",
+      "name": "A User Study of Techniques for Visualizing Structure and Connectivity in Hierarchical Datasets", 
+      "link1": "http://voila2017.visualdataweb.org/",
+      "pubname": "VOILA 2017",               
+      "img":  "http://voila2017.visualdataweb.org/ISWC2017_logo.png",
+      "size": 80000
+    },
+    {
+      "hero": "Tommy Dang , Vinh Nguyen, and Yasin Kabir",
+      "name": "DycomDetector: Discover topics using automatic community detections in dynamic networks", 
+      "link1": "http://poloclub.gatech.edu/idea2017/",
+      "pubname": "IDEA 2017",               
+      "img":  "http://poloclub.gatech.edu/idea2017/img/idea2017-poster-cfp-200x.jpg",
+      "size": 80000
+    },
+    {
+      "hero": "Tommy Dang, Long Hoang Nguyen, Abdullah Karim, and Venki Uddameri",
+      "name": "STOAViz: Visualizing Saturated Thickness of Ogallala Aquifer", 
+      "link1": "http://www.informatik.uni-leipzig.de/~envirvis2017/",
+      "pubname": "EnvirVis 2017",               
+      "img":  "http://www.informatik.uni-leipzig.de/bsv/envirvis2017/user/themes/antimatter/images/favicon.png",
+      "size": 80000
+    },
+    {
+      "hero": "Tommy Dang and Angus Forbes.",
+      "name": "CactusTree: A Tree Drawing Approach for Hierarchical Edge Bundling", 
+      "link1": "http://pacificvis.snu.ac.kr/",
+      "pubname": "PacificVis 2017",                
+      "img":  "http://pacificvis.snu.ac.kr/assets/hoam_main-be1d176705b72c1cdea1cb716a07573c5b410a305320709b76ede5d681c9c8e1.jpg",
+      "size": 80000
+    },
+    {
+      "hero": "Tommy Dang, Paul Murray, and Angus Forbes",
+      "name": "Biolink1er: Bottom-up exploration of protein interaction network", 
+      "link1": "http://pacificvis.snu.ac.kr/",
+      "pubname": "PacificVis 2017",
+      "img":  "http://pacificvis.snu.ac.kr/assets/hoam_main-be1d176705b72c1cdea1cb716a07573c5b410a305320709b76ede5d681c9c8e1.jpg",
+      "size": 80000
+    }
+   ]
+  }  
+ ]
+}
